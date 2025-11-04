@@ -6,10 +6,10 @@ description: "A simple test agent that wraps LLM responses with custom prefix an
 
 # OCI Distribution
 oci:
-  registry: "ghcr.io"
-  repository: "tyk-technologies/plugins/echo-agent"
+  registry: "localhost:5101"
+  repository: "plugins/echo-agent"
   tag: "0.1.0"
-  digest: "sha256:placeholder-will-be-updated-after-build"
+  digest: "sha256:989b453c819937a10ef657f197fb57ecd42cb69f6b2544f24d922f9d65c21f96"
   platform: ["linux/amd64", "linux/arm64", "darwin/amd64", "darwin/arm64"]
 
 # Discovery & Classification
