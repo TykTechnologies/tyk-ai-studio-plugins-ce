@@ -6,7 +6,7 @@ description: "A phrase-based prompt filtering plugin for Tyk AI Studio's Microga
 
 # OCI Distribution
 oci:
-  registry: ""
+  registry: "localhost:5100"
   repository: "plugins/llm-firewall"
   tag: "1.0"
   digest: "sha256:f33b8fd5a1075fdf4b66c8752a8fec336994d03da46ee1072f783b85df67ce31"
