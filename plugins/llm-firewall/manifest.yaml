@@ -19,10 +19,10 @@ maturity: "stable"
 
 # Documentation & Support
 links:
-  documentation: "https://github.com/TykTechnologies/midsommar/tree/main/community/plugins/llm-firewall"
-  repository: "https://github.com/TykTechnologies/midsommar"
+  documentation: "https://github.com/TykTechnologies/tyk-ai-studio-plugins-ce/tree/main/plugins/llm-firewall"
+  repository: "https://github.com/TykTechnologies/ai-studio-community-plugins"
   support: "https://community.tyk.io"
-  issues: "https://github.com/TykTechnologies/midsommar/issues"
+  issues: "https://github.com/TykTechnologies/ai-studio-community-plugins/issues"
   homepage: "https://tyk.io/ai-studio"
 
 # Display Assets
