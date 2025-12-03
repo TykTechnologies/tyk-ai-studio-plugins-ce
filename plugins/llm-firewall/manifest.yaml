@@ -2,7 +2,7 @@
 id: "com.tyk.llm-firewall"
 name: "LLM Firewall"
 version: "1.0.0"
-description: "Security firewall for LLM requests providing content filtering, prompt injection detection, and policy enforcement."
+description: "A phrase-based prompt filtering plugin for Tyk AI Studio's Microgateway. This plugin detects disallowed phrases in incoming prompts and blocks requests that contain policy violations before they reach the LLM."
 
 # OCI Distribution
 oci:
@@ -10,7 +10,7 @@ oci:
   repository: "plugins/llm-firewall"
   tag: "1.0"
   digest: "sha256:f33b8fd5a1075fdf4b66c8752a8fec336994d03da46ee1072f783b85df67ce31"
-  platform: ["linux/amd64", "linux/arm64", "darwin/amd64", "darwin/arm64"]
+  platform: ["linux/amd64", "darwin/arm64"]
 
 # Discovery & Classification
 category: "security"

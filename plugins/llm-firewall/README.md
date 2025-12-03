@@ -1,13 +1,16 @@
-# LLM Firewall
+# LLM Firewall Plugin
 
-Security firewall for LLM requests providing content filtering, prompt injection detection, and policy enforcement.
+A phrase-based prompt filtering plugin for Tyk AI Studio's Microgateway. This plugin detects disallowed phrases in incoming prompts and blocks requests that contain policy violations before they reach the LLM.
 
 ## Features
 
-- Content filtering for requests and responses
-- Prompt injection detection
-- Policy enforcement
-- Real-time security monitoring
+- **Phrase-based filtering** - Block requests containing specific phrases or patterns
+- **Regex support** - Use regular expressions for complex pattern matching
+- **Model-specific rules** - Apply different rules to different LLM models using glob patterns
+- **Multi-vendor support** - Works with OpenAI, Anthropic, Google AI, Vertex, and Ollama
+- **Configurable hook phase** - Run checks before or after authentication
+- **Privacy-preserving** - Logs matched patterns only, not request content
+- **Fail-open design** - Allows requests through if parsing fails (configurable)
 
 ## Installation
 
