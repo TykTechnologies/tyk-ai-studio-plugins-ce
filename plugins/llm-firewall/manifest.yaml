@@ -9,7 +9,7 @@ oci:
   registry: "docker.tyk.io"
   repository: "studio-plugins/llm-firewall"
   tag: "1.0"
-  digest: "sha256:daa485075a1f1fd4679809795f18f1b598f777a0ad9b1b5c5fdd98ccebec9906"
+  digest: "sha256:1149b60b8c0dfef673cd4544f9e7673f35ebae70494bde350d67338e7fb5ac40"
   platform: ["linux/amd64", "darwin/arm64"]
 
 # Discovery & Classification

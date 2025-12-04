@@ -9,7 +9,7 @@ oci:
   registry: "docker.tyk.io"
   repository: "studio-plugins/llm-cache"
   tag: "1.0"
-  digest: "sha256:8c6dd595535081b2f0b29834468b2dcf0095405cb251ea6d034e29048473b8e3"
+  digest: "sha256:cb1d497ac26f8b4e197815fffd61c18b8839d2bcb3f9c2c9f8e4e2fc9784d7d4"
   platform: ["linux/amd64", "darwin/arm64"]
 
 # Discovery & Classification
