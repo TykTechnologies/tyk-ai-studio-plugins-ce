@@ -26,7 +26,7 @@ links:
   homepage: "https://tyk.io/ai-studio"
 
 # Display Assets
-icon: "https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/advanced-llm-cache/icon.png"
+icon: "https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/advanced-llm-cache/icon.svg"
 screenshots: []
 
 # Maintainers
