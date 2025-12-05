@@ -1,5 +1,5 @@
 apiVersion: v1
-generated: '2025-12-05T11:53:25Z'
+generated: '2025-12-05T11:56:21Z'
 plugins:
   com.tyk.llm-cache:
   - id: com.tyk.llm-cache
@@ -19,7 +19,7 @@ plugins:
     maturity: stable
     publisher: tyk-community
     license: AGPL v3
-    icon: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/llm-cache/icon.svg
+    icon: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/llm-cache/1.0.0/icon.svg
     primary_hook: post_auth
     hooks:
     - post_auth
@@ -77,7 +77,7 @@ plugins:
     maturity: stable
     publisher: tyk-community
     license: AGPL v3
-    icon: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/github-rag-ingest/icon.svg
+    icon: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/github-rag-ingest/1.0.0/icon.svg
     primary_hook: studio_ui
     hooks:
     - studio_ui
@@ -188,7 +188,7 @@ plugins:
     maturity: stable
     publisher: tyk-official
     license: Commercial
-    icon: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/advanced-llm-cache/icon.svg
+    icon: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/advanced-llm-cache/1.0.2/icon.svg
     primary_hook: post_auth
     hooks:
     - post_auth
