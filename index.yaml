@@ -1,5 +1,5 @@
 apiVersion: v1
-generated: '2025-12-05T07:40:04Z'
+generated: '2025-12-05T11:53:25Z'
 plugins:
   com.tyk.llm-cache:
   - id: com.tyk.llm-cache
@@ -40,7 +40,7 @@ plugins:
     deprecated_message: ''
     replacement: ''
     enterprise_only: false
-    manifest_url: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/llm-cache/manifest.yaml
+    manifest_url: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/llm-cache/1.0.0/manifest.yaml
     documentation_url: https://github.com/TykTechnologies/tyk-ai-studio-plugins-ce/tree/main/plugins/llm-cache
     repository_url: https://github.com/TykTechnologies/ai-studio-community-plugins
     support_url: https://community.tyk.io
@@ -97,7 +97,7 @@ plugins:
     deprecated_message: ''
     replacement: ''
     enterprise_only: false
-    manifest_url: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/github-rag-ingest/manifest.yaml
+    manifest_url: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/github-rag-ingest/1.0.0/manifest.yaml
     documentation_url: https://github.com/TykTechnologies/tyk-ai-studio-plugins-ce/tree/main/plugins/github-rag-ingest
     repository_url: https://github.com/TykTechnologies/ai-studio-community-plugins
     support_url: https://community.tyk.io
@@ -156,7 +156,7 @@ plugins:
     deprecated_message: ''
     replacement: ''
     enterprise_only: false
-    manifest_url: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/llm-firewall/manifest.yaml
+    manifest_url: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/llm-firewall/1.0.0/manifest.yaml
     documentation_url: https://github.com/TykTechnologies/tyk-ai-studio-plugins-ce/tree/main/plugins/llm-firewall
     repository_url: https://github.com/TykTechnologies/ai-studio-community-plugins
     support_url: https://community.tyk.io
@@ -211,7 +211,7 @@ plugins:
     deprecated_message: ''
     replacement: ''
     enterprise_only: true
-    manifest_url: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/advanced-llm-cache/manifest.yaml
+    manifest_url: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/advanced-llm-cache/1.0.2/manifest.yaml
     documentation_url: https://github.com/TykTechnologies/tyk-ai-studio-plugins-ce/tree/main/plugins/advanced-llm-cache
     repository_url: https://github.com/TykTechnologies/ai-studio-community-plugins
     support_url: https://community.tyk.io
