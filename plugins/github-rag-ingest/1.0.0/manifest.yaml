@@ -26,7 +26,7 @@ links:
   homepage: "https://tyk.io/ai-studio"
 
 # Display Assets
-icon: "https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/github-rag-ingest/icon.svg"
+icon: "https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/github-rag-ingest/1.0.0/icon.svg"
 screenshots: []
 
 # Maintainers
