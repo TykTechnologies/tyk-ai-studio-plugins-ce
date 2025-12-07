@@ -16,7 +16,7 @@ plugins:
     - linux/amd64
     - darwin/arm64
     category: analytics
-    maturity: stable
+    maturity: beta
     publisher: tyk-community
     license: AGPL v3
     icon: https://raw.githubusercontent.com/TykTechnologies/tyk-ai-studio-plugins-ce/main/plugins/llm-cache/1.0.0/icon.svg
