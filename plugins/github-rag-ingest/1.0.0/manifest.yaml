@@ -15,7 +15,7 @@ oci:
 # Discovery & Classification
 category: "data"
 keywords: ["rag", "github", "ingestion", "vector-store", "chunking", "sync", "repository"]
-maturity: "stable"
+maturity: "beta"
 
 # Documentation & Support
 links:

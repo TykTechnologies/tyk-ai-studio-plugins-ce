@@ -15,7 +15,7 @@ oci:
 # Discovery & Classification
 category: "security"
 keywords: ["security", "firewall", "content-filtering", "prompt-injection", "policy"]
-maturity: "stable"
+maturity: "beta"
 
 # Documentation & Support
 links:

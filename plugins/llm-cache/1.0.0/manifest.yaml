@@ -15,7 +15,7 @@ oci:
 # Discovery & Classification
 category: "analytics"
 keywords: ["cache", "caching", "performance", "cost-reduction", "latency", "lru", "ttl"]
-maturity: "stable"
+maturity: "beta"
 
 # Documentation & Support
 links:
