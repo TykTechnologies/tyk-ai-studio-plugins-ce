@@ -1,5 +1,5 @@
 apiVersion: v1
-generated: '2026-03-10T00:52:03Z'
+generated: '2026-03-10T01:00:06Z'
 plugins:
   com.tyk.llm-cache:
   - id: com.tyk.llm-cache
@@ -34,8 +34,8 @@ plugins:
     - latency
     - lru
     - ttl
-    created_at: '2025-12-04T00:00:00Z'
-    updated_at: '2025-12-04T00:00:00Z'
+    created_at: '2026-03-08T00:00:00Z'
+    updated_at: '2026-03-08T00:00:00Z'
     deprecated: false
     deprecated_message: ''
     replacement: ''
@@ -347,8 +347,8 @@ plugins:
     - ttl
     - audit
     - observability
-    created_at: '2025-12-04T00:00:00Z'
-    updated_at: '2025-12-05T00:00:00Z'
+    created_at: '2026-03-08T00:00:00Z'
+    updated_at: '2026-03-08T00:00:00Z'
     deprecated: false
     deprecated_message: ''
     replacement: ''
