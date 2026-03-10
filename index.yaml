@@ -1,5 +1,5 @@
 apiVersion: v1
-generated: '2026-03-09T09:34:42Z'
+generated: '2026-03-10T00:52:03Z'
 plugins:
   com.tyk.llm-cache:
   - id: com.tyk.llm-cache
@@ -11,7 +11,7 @@ plugins:
     oci_registry: docker.tyk.io
     oci_repository: studio-plugins/llm-cache
     oci_tag: '1.0'
-    oci_digest: sha256:3910fcd4bf54eaec39a2da3987bdf5e1a270aac2fa3f4a486812192f01dd4f99
+    oci_digest: sha256:f2014ea5d6841f362920350bba58c3350ff3d2bfbbaa4bc3851040128763ae93
     oci_platform:
     - linux/amd64
     - darwin/arm64
